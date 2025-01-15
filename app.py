@@ -1,3 +1,5 @@
+# Abdul Rehman Waseem (23-AI-27)
+
 def followPattern(pattern, s):
     words = s.split()
     # Check the length of pattern and word, if it is not equal return False
